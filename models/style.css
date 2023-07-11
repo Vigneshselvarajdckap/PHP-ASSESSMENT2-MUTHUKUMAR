@@ -1,0 +1,168 @@
+*{
+    font-family: Roboto, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.dbCreate{
+    visibility: hidden;
+}
+
+.show{
+    visibility: visible;
+}
+.column{
+    margin-top: 15px;
+}
+
+.dbCreate {
+    position: absolute;
+    left: 490px;
+}
+
+input{
+    height: 40px;
+    width: 260px;
+    font-size: 17px;
+    outline: 0;
+    /* background-color: darkgray; */
+    background: linear-gradient(#fff,#dedfe2);
+    border: 0;
+    border-radius: 3px;
+    padding-left: 20px;
+    margin-left: -52px;
+}
+button{
+    height: 40px;
+    width: 110px;
+    border: 0;
+    background-color: #dedfe2;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button.addDb {
+    margin-top: 40px;
+}
+
+button.showDbs {
+    margin-top: 15px;
+}
+
+.imgs{
+    height: 60px;
+}
+
+.dbShow {
+    margin-left: 110px;
+}
+
+h1{
+    margin-left: 47px;
+    color: orange;
+    font-style: italic;
+}
+
+select.dbnae {
+    height: 40px;
+    width: 386px;
+    font-size: 17px;
+    outline: 0;
+    background: linear-gradient(#fff,#dedfe2);
+    border: 0;
+    border-radius: 3px;
+    padding-left: 20px;
+    margin-left: -52px; 
+    color: rgba(13, 13, 133, 0.945);
+}
+
+.Tn{
+    height: 40px;
+    width: 363px;
+    font-size: 17px;
+    outline: 0;
+    background-color: darkgray;
+    border: 0;
+    border-radius: 3px;
+    padding-left: 20px;
+    margin-left: -52px;
+    margin-top: 15px;
+}
+
+button.addColumn {
+    margin-top: 55px;
+    margin-right: 59px;
+    margin-left: -51px;
+}
+
+
+select {
+    outline: 0;
+    background: linear-gradient(#fff,#dedfe2);
+    border: 0;
+    border-radius: 3px;
+    margin-left: 3px;
+    height: 40px;
+    color: rgba(13, 13, 133, 0.945);
+}
+
+.main {
+    border: 5px solid rgb(181, 199, 206);
+    /* height: 340px; */
+    width: 500px;
+    margin-left: 351px;
+    padding-top: 10px;
+}
+
+button.btnSave {
+    margin-left: 100px;
+}
+
+h1.createDB {
+    margin-left: 7px;
+}
+
+button.backbtn {
+    width: 510px;
+    margin-left: 351px;
+    margin-top: 14px;
+    background: linear-gradient(#fff,#dedfe2);
+}
+
+span{
+    color: darkblue;
+}
+
+.insertBtn{
+    margin-top: 15px;
+}
+
+.inpuss {
+    width: 400px;
+    margin-left: 430px;
+    margin-top: 30px;
+    border: 3px solid rgb(181, 199, 206);
+}
+
+.inp1 {
+    margin-top: 10px;
+}
+
+.dataAdd{
+    margin-top: 10px;
+    margin-left: 142px;
+}
+
+.inp {
+    margin-left: 120px;
+    margin-top: 30px;
+}
+
+h1.createRow {
+    margin-left: 560px;
+    margin-top: 60px;
+}
+
+button.colbtns {
+    margin-left: 431px;
+    margin-top: 15px;
+    width: 406px;
+}
